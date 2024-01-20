@@ -1,4 +1,4 @@
-
+ [![HitCount](https://hits.dwyl.com/sakthiadhu452/sakthiadhu452.svg?style=flat-square)](http://hits.dwyl.com/sakthiadhu452/sakthiadhu452)
 # Hi 👋, I'm SAKTHI ADHAVAN K
 
 #### A passionate software developer from India
@@ -6,8 +6,9 @@
 <img width=1000 height=300 src='https://media3.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif'>
 <h2>Who Am I?</h2>
 <i>passionate and versatile developer with a knack for creating awesome projects. My journey in the tech world has equipped me with a diverse skill set. I thrive on turning ideas into reality through the power of code and design. Whether it's crafting a seamless user interface, optimizing database performance, or delving into the intricacies of data, I love the challenge of creating solutions that make a real impact.Let's connect and build something amazing together! Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat.
-
-Happy coding! 🚀</i>
+  <br><br>
+<div align="center">
+Happy coding! 🚀</div></i>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakthiadhavan k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthi adhavan k" height="30" width="40" /></a>
