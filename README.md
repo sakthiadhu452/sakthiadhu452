@@ -16,6 +16,8 @@ Happy coding! 🚀</i>
 <a href="https://www.hackerrank.com/21eir078_sakthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21eir078_sakthi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sakthi adhavan k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakthi adhavan k" height="30" width="40" /></a>
 </p>
+<h5>Gmail:</h5>
+sakthiadhavan452@gmail.com
 <br>
 
 <h1 align="left">Languages and Tools:</h1>
