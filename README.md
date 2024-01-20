@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm SAKTHI ADHAVAN K</h1>
 <h5 align="center">A passionate software developer from India</h5>
-<img align="center" alt="hi there" width="600px" src="https://media3.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif">
+<img align="center" alt="hi there" width="100vw" src="https://media3.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakthi adhavan k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthi adhavan k" height="30" width="40" /></a>
