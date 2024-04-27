@@ -66,9 +66,7 @@ sakthiadhavan452@gmail.com
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin: 20px;"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin: 20px;"/>
-  </a>
+
 </p>
 
 </p>
